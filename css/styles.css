@@ -54,6 +54,7 @@ body {
 
 .btn-actions {
     position: absolute;
+    align-items: center;
     left: 50px;
 }
 
@@ -71,7 +72,7 @@ button {
 }
 
 button:hover {
-    background-color: #d89f0c;
+    background-color: #daa520;
     cursor: pointer;
 }
 
